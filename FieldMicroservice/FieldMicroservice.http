@@ -1,0 +1,6 @@
+@FieldMicroservice_HostAddress = http://localhost:5110
+
+GET {{FieldMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
